@@ -6,7 +6,7 @@ $(document).ready(function(){
 
   var url = 'https://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&schoolName=university+of+illinois+at+urbana%5C-champaign&queryoption=HEADER&query='
 
-  //console.log('shit');
+ 
   $('#rateButton').click(function(){
     var namez = $('#name').val();
 
